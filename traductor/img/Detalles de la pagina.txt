@@ -1,0 +1,206 @@
+Amor!!!...muack!!!...eres muy lindo mi cielito...n.n <3 <3 <3 
+Aqui estan toooooooooooooodo los pequeños detallitos de la pagina amor...o almenos eso creo...n.n
+si tienes alguna duda solo dimelo amor...shi?...:3
+
+//la imagen de fondo que abarque toda la patalla amor...n.n <3 <3 <3
+
+	<body background= "fondo.jpg">
+
+//tipo de letra para el titulo y a los costados del titulo habra una imagen... hola.gif
+	
+	<h1 style="; font-size:350%; font-family:AR HERMANN; text-align:center">Deaf-communication</h1>
+	
+//no se como se pondria...pero creo que usariamos un frame para la parte del contacto para que 
+no se pierda de la pagina...n.n pero quisiera que este presente todo el tiempo los contactos,
+que este hasta el final de la pagina y en cualquier parte a la que te metas siga estando los contactos hasta abajo
+...peeeero...que no abarque mucho espacio de la pagina o que este hasta abajo como en las paginas del ipn,
+tu como crees que seria mejor amor?...n.n <3 <3 <3 eso lo dejare a tu criterio...n.n <3
+//aunque si me fustaria que los contactos y la pagina se dividieran con la imagen fondo02.png <3
+y no importa si se estira la imagen...pero tiene que ir de extremo a extremo a lo largo <3
+
+	<img src="erizo.png" height="150" width="150">
+	
+
+//el erizo tambien va estar presente en la pantalla todo el tiempo siempre y cuando no estorbe
+y cuando acerques el mouse a la imagen se cambiara de un .png a un .gif y saldra un letrerito
+que diga Ayuda como el que sale del puntero cuando lo dejas en una funcion y te dice ´para que sirve
+
+//al principio estara en el centro de la pantalla muy grande como de 700x700 <3
+ o se te ocurre algo que ponerle a la pantalla de inicio amor?...<3 <3 <3 esque todo estaria en los menus...n.n <3
+ muack!!! <3 de los menus....no me acuerdo como me dijiste que era la funcion para ponerle efectos de sombra y luz...u.u
+ pero me gustaria que tubiera sombra mediana negra solo del lado izquierdo y abajo del boton de menu....n.n
+o a menos de que creas que seria mas facil con una imagen como boton...pero la cuastion es de que me gustaria
+...que los botones cambiaran y cuando acerques el mouse y hasta que los selecciones 
+brillen y salga un menu desplegable con las mismas caracteristicas del menu al seleccionarlo y con las 
+sombras cuando no...n.n <3 <3 <3
+//tambien que la letra se ponga en negritas al seleccionarlos...n.n <3
+
+	color del brillo de los menús: #02f6ff
+	color de sombra: #000000
+	color de toda la letra: #000000
+	
+//si tienes otra duda de los colores me dices mi amor...muack!!!...n.n <3 <3 <3
+
+//del menu van a estar todos de forma horizontal a lo ancho de la pagina y se desplegarian hacia abajo
+y cuando se despleguen las sombras de las opciones de los menus van a ser de la izquierda y arriba
+...si no se pueden poner de solo unos lados no te preocupes amor...n.n <3 con la sombra y el brillo
+de la seleccion se vera bonito...n.n <3 <3 <3 de preferencia que no se vea el borde del boton
+...solo la sombra...n.n <3 <3 <3 muack!!! <3 
+
+//el boton del traductor sera el unico que siga brillando al momento de seleccionarlo...o cuando estes en
+la parte del traductor, los demas volveran a la normalidad despues de seleccionar una opcion
+
+	//el texto de los menus sera con...
+		<p style="font-family:AR CARTER; font-size:180%">
+
+		</p>
+
+	//el de las opciones sera con...
+		<p style="font-family:Andalus; font-size:150%">
+
+		</p>
+
+	//el texto que aparece de contacto...Creacion de la pagina...Ultima actualización...seran asi...
+		<p style="font-family:AR CHRISTY; font-size:135%">
+			<br> Contacto
+			<br> Creación de la página:
+			<br> Última actualización:
+		</p>
+
+	//el resto del texto en toda la pagina sera con...
+		<p style="font-family:Times New Roman; font-size:120%">
+
+		</p>
+//la creacion y actualizacion seran las fechas de ayer y de lo ultimo que le hagamos a la pagina
+e iran del lado derecho hasta abajo junto con el contacto de la pagina...n.n <3 <3 <3
+
+	//nuestros datos y las fechas son como tipo de letra del resto de la pagina, asi como el traductor
+	y la parte de mision, vision y objetivo...n.n <3
+
+		//para la parte de nuestros contactos estos son mis datos amor....no se si quieras que
+		le agraguemos mas cosas o que alguna parte de la informacion esta de mas...n.n <3
+			
+			Leslie Itzel Cedillo Labrada
+			Tel. 0445527556254
+			Estudios: CECyT #1 'Gonzalo Vazquez Vela'	Grupo: 6IV23
+			Dirección: Calle Cuauhtemoc #127,
+				  Col. Barrio la Asunción,
+				  Del. Iztapalapa CP. 09000
+			Correo: lm.c.gazette@gmail.com
+			Facebook: Leslie Cedillo
+
+Los menús van en este orden...
+
+
+	Menú Principal
+
+Op1...Presentación
+
+//Que abarque toda la pagina, que este centrado y si se puede que brille con #756adf
+ y si no te gusta el color...que sea con uno que contraste y te guste como se ve...n.n <3
+	
+	"Buenos dias/tardes/noches (si se puede que cambie el saludo de acuerdo a la hora)
+	
+		Nosotros somos Estudiantes del Centro de Estudios Científicos y Tecnológicos #1
+		'Gonzalo Vázquez Vela' y queremos mostrales lo que es nuestro proyecto de titulación
+		para lograr ser Técnicos en Sistemas Digitales.
+
+								Esperamos que esta página sea de su agrado"
+Op2...Misión
+
+//Mismo tipo de letra y brillo que la presentacion
+
+	"Nuestra misión es proporcionar, especialmente a los mexicanos, la manera de comunicarse 
+	facilmente con las personas que caresen del sentido del iodo o del habla y poder sostener
+	una conversacion agradable con la persona sin mayor problema"
+
+Op3...Visión
+
+//letra y brillo igual...todos centrados
+
+	"Queremos darle la oportunidad a los demas de aprender una nueva forma de conversar con
+	las personas que han tenido problemas con respecto al oido o la voz"
+
+Op4...Objetivo
+
+//Todo el tiempo estara el erizo de mar al lado del nombre de la pagina
+...los hola.gif solo estaran en la pagina principal
+
+	"Esta página de internet esta dirigida a toda la comunidad para que pueda comunicarse de manera
+	efectiva, fácil y eficiente con aquellas personas que desconocen el lenguaje a señas"
+
+		//Otra cosita amor...podrias ayudarme con el contenido de mision...vision y objetivo porfavor?...n.n <3
+	...esque no se me ocurre mucho que poner y no se si esta bien...le falta le sobra...
+	tu dime amor...muack!!!...que modificaciones le hacemos al texto para que no sea mucho 
+	pero se entienda la idea...n.n <3
+
+
+	Menú Secciones
+
+//Seran en orden alfabetico y la imagen ira del lado izquierdo de la pantalla
+ y del lado derecho ira la palabra o letra que significa..POR EJEMPLO
+		_____________
+	        |	    |
+		|	    |
+		|	    | A
+	        |	    |
+		|	    |
+		|	    |
+		-------------
+
+Op1...Abecedario
+
+Op2...Animales
+
+Op3...Colores
+
+Op4...Números
+
+Op5...Países
+
+		NOTA...los menus de aqui dependeran de la cantidad de imagenes que logre terminar hasta
+		antes de subir la pagina de internet...van por jerarquia y las que son definitivas seran 
+		abecedario y animales...de ahi veremos que es lo que nos alcanza a poner...n.n <3
+
+	Menú Idioma
+
+//De esta parte la pagina principal estara en ingles tambien,...despues te digo que otras cosas 
+pondremos en ingles y te dare las traducciones para que las vayas poniendo...lo inico diferente
+en cada pagina entre ingles y español sera el idioma
+
+
+	Menú Traductor
+
+//para esta parte...debe tener 2 secciones, un area para escribir y la otra en la que apareceran
+las imagenes que dicen lo que significa, si no encuetra las palabras tendra que aparecer una imagen por letra
+ por ejemplo...en los nombres...
+		L	E	S	L	I	E
+	aparecera una imagen por cada letra sacada del abecedario
+	
+	pero si esta la palabra en el diccionario seria una imagen por cada palabra
+
+//La seccion de escritura sera un cuadro de texto que abarque la mitad de la pantalla y debajo de el aparecera el 
+espacio para las imagenes de cada palabra o letra
+
+	NOTA...SI ESCRIBEN SIMBOLOS COMO . , ; : ! " # $ % & / ( ) = ... los ignorara y 
+		y si puede los repetira en el orden que los pusieron, por ejemplo
+			
+			Estoy estrezada!!!
+
+		(imagen)	(imagen)
+		_____________	 ____________
+	        |	    |	 |	    |
+		|	    |	 |	    |
+		|	    |	 |	    |	!!
+	        |	    |	 |	    |
+		|	    |	 |	    |
+		|	    |	 |	    |
+		-------------	 ------------- 
+
+		(Estar)		(Estresado)
+
+	...HAY QUE TENER CUIDADO CON LAS CONJUGACIONES DE LOS VERBOS...PODRIAMOS BAZARNOS EN COMO LO HACE GOOGLE
+
+por ahora..eso es todo...:3 cualquier duda me dices en el momento y luego yo lo checo y te aviso...n.n (despues de comer...jejeje)
+
+Suerte...:3

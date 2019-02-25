@@ -1,0 +1,69 @@
+*{margin: 0%; padding: 0%;}
+#fondo{width: 100%; height: 100%; top: 0%; left: 0%; position: absolute;}
+#caja_contenidos{position:relative; top: 200px;}
+#caja_escribe{resize:none; width:500px; height:300px; box-shadow: 1px 1px 5px #CACACA; outline: none;}
+#caja_menu{position: relative; width: 650px;}
+#caja_erizo{left:0%; z-index: 8; position: absolute;}
+#caja_erizo:hover{cursor: pointer;}
+#caja_contacto{position: absolute; top: 100%; width: 100%; background: #000; opacity: 0.8; left: 0%;}
+
+#caja_cont,#caja_cont_est{font-family:"AR CHRISTY"; font-size:135%; text-decoration: none; color: #fff;}
+
+#menu{position:absolute; background: #fff; width: 500px; list-style: none; left: 90px; z-index: 3; height: 40px; top:55px; padding-left: 50px;}
+#menu > li{float: left; margin-left: 10px; position: relative; width: 110px; padding: 0%;}
+#menu_op:hover{/*box-shadow: 0px 0px 5px #02f6ff;*/ text-shadow:1px 1px 1px #02f6ff;}
+#menu_op{font-family:"AR CARTER"; color:#000000; text-decoration: none; font-size: 180%;}
+
+#sub_men1,#sub_men2,#sub_men3{position: relative; top:-1px; background: #000; display: block;}
+
+#sub_op{font-family:"Andalus"; font-size:20px; text-decoration: none;}
+#sub_op:hover{color: #ffffff;}
+
+#resp{width:500px; height:300px; overflow-x:hidden; background: #fff; box-shadow: 1px 1px 5px #CACACA; }
+
+#cosas{
+width:70%;
+height:55%;
+position:absolute;
+top:270px;
+left:270px;
+background-image:url('fondo03.png');
+background-repeat:no-repeat;
+z-index:1000;
+}
+#u{
+	color:#fff;
+	font-family:"Arial";
+	margin:10px;
+	text-align:justify;
+	letter-spacing:1px;
+	font-size: 17;
+}
+#contacto{
+	position: absolute;
+	top:0%;
+	height: 100%;
+	width: 800px;
+	z-index: 150;
+}
+#img_fond{
+	position: relative;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	z-index: 149;
+	opacity: 0.0;
+}
+#contacto > #tit_a,#contacto > #pr_con{
+	position: absolute;
+	color: #fff;
+	letter-spacing: 2px;
+	z-index: 151;
+	font-family: "Times New Roman";
+	left: 120px;
+	top: 30%;
+}
+/* Clases */
+.off{display: none;}
+.on{display: block;}
